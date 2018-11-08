@@ -24,9 +24,9 @@
 	
   <dependencies>
 <dependency>
-    <groupId>io.hawt</groupId>
-    <artifactId>hawtio-git</artifactId>
-    <version>1.2.0</version>
+    <groupId>org.jenkins-ci.main</groupId>
+    <artifactId>jenkins-core</artifactId>
+    <version>1.480</version>
     <scope>provided</scope>
 </dependency>
 
