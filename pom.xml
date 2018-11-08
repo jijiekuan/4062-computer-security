@@ -32,7 +32,7 @@
 	
    <build>
         <plugins>
-		
+	<!--		
             <plugin>
               <groupId>org.owasp</groupId>
               <artifactId>dependency-check-maven</artifactId>
@@ -45,7 +45,7 @@
                   </execution>
                </executions>
             </plugin>
-	<!--	
+	-->
 	    <plugin>
       		<groupId>org.sonatype.ossindex.maven</groupId>
       		<artifactId>ossindex-maven-plugin</artifactId>
@@ -61,7 +61,7 @@
       		</executions>
     	   </plugin>
 	
--->
+
         </plugins>
 </build>
 
