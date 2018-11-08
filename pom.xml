@@ -27,6 +27,7 @@
     <groupId>org.apache.tomcat</groupId>
     <artifactId>apache-tomcat</artifactId>
     <version>5.5.20</version>
+	    <type>tar.gz</type>
 </dependency>
   </dependencies>
 	
