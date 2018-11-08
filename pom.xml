@@ -24,11 +24,11 @@
 	
   <dependencies>
 <dependency>
-    <groupId>org.keycloak</groupId>
-    <artifactId>keycloak-services</artifactId>
-    <version>1.0.1.Final</version>
-    <scope>provided</scope>
+    <groupId>org.apache.ws.security</groupId>
+    <artifactId>wss4j</artifactId>
+    <version>1.6.0</version>
 </dependency>
+
   </dependencies>
 	
    <build>
