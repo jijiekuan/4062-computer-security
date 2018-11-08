@@ -24,9 +24,9 @@
 	
   <dependencies>
 <dependency>
-    <groupId>org.jenkins-ci.main</groupId>
-    <artifactId>jenkins-core</artifactId>
-    <version>1.420</version>
+    <groupId>org.keycloak</groupId>
+    <artifactId>keycloak-services</artifactId>
+    <version>1.0.1.Final</version>
     <scope>provided</scope>
 </dependency>
   </dependencies>
